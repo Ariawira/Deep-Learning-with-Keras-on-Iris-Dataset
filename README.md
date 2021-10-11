@@ -12,4 +12,4 @@ Dataset bunga iris adalah masalah yang dipelajari dengan baik dan saya mengharap
 
 Anda dapat mengunduh dataset bunga iris dari repositori Pembelajaran Mesin UCI dan menempatkannya di direktori kerja Anda saat ini dengan nama file iris.csv
 
-Namun, dalam kasus saya telah mengimpor dataset dari kaggle dalam format sqlite3.
+Namun, dalam kasus saya telah download dataset dari kaggle dalam format sqlite3.
